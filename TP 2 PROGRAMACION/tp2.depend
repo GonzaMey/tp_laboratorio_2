@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1538363599 source:c:\users\kobe\desktop\utilidadesutn-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1538363621 source:c:\users\kobe\desktop\utilidadesutn-master\tp2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538363611 c:\users\kobe\desktop\utilidadesutn-master\tp2\persona.h
+
+1538406419 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp 2 programacion\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538401688 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp 2 programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1538365172 c:\users\alumno\desktop\tp_laboratorio_1-master\tp 2 programacion\persona.h
+
+1538592516 source:c:\users\kobe\desktop\tp_laboratorio_1-master\tp 2 programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1538592480 c:\users\kobe\desktop\tp_laboratorio_1-master\tp 2 programacion\persona.h
+
+1538592516 source:c:\users\kobe\desktop\tp_laboratorio_1-master\tp 2 programacion\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
